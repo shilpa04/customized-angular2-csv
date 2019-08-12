@@ -1,6 +1,6 @@
 {
-  "_from": "customized-angular2-csv@^1.0.1",
-  "_id": "customized-angular2-csv@1.0.1",
+  "_from": "customized-angular2-csv@^1.0.2",
+  "_id": "customized-angular2-csv@1.0.2",
   "_inBundle": false,
   "_integrity": "sha512-8OASfAih8qgFN9+p4L85ZlpT4I8L1SDPtT6UnuArdWG6Q39bT0GcpoDLc3Tj92elJgd1EONlj7X/9+FFGkUYAA==",
   "_location": "/customized-angular2-csv",
@@ -8,19 +8,19 @@
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "customized-angular2-csv@^1.0.1",
+    "raw": "customized-angular2-csv@^1.0.2",
     "name": "customized-angular2-csv",
     "escapedName": "customized-angular2-csv",
-    "rawSpec": "^1.0.1",
+    "rawSpec": "^1.0.2",
     "saveSpec": null,
-    "fetchSpec": "^1.0.1"
+    "fetchSpec": "^1.0.2"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/customized-angular2-csv/-/customized-angular2-csv-1.0.1.tgz",
+  "_resolved": "https://registry.npmjs.org/customized-angular2-csv/-/customized-angular2-csv-1.0.2.tgz",
   "_shasum": "8b606231b37819cbee5747b67b9dd524314fe552",
-  "_spec": "customized-angular2-csv@^1.0.1",
+  "_spec": "customized-angular2-csv@^1.0.2",
   "_where": "/home/stpl/LMSScratchBO",
   "author": {
     "name": "Shilpa Nirankari"
@@ -71,5 +71,5 @@
   },
   "sideEffects": false,
   "typings": "angular2-csv.d.ts",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
