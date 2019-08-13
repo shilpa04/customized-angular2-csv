@@ -1,0 +1,75 @@
+{
+  "_from": "customized-angular2-csv@^1.0.1",
+  "_id": "customized-angular2-csv@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-8OASfAih8qgFN9+p4L85ZlpT4I8L1SDPtT6UnuArdWG6Q39bT0GcpoDLc3Tj92elJgd1EONlj7X/9+FFGkUYAA==",
+  "_location": "/customized-angular2-csv",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "customized-angular2-csv@^1.0.1",
+    "name": "customized-angular2-csv",
+    "escapedName": "customized-angular2-csv",
+    "rawSpec": "^1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/customized-angular2-csv/-/customized-angular2-csv-1.0.1.tgz",
+  "_shasum": "8b606231b37819cbee5747b67b9dd524314fe552",
+  "_spec": "customized-angular2-csv@^1.0.1",
+  "_where": "/home/stpl/LMSScratchBO",
+  "author": {
+    "name": "Shilpa Nirankari"
+  },
+  "bugs": {
+    "url": "https://github.com/shilpa04/customized-angular2-csv/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "Localized csv file names as per selected language",
+  "es2015": "fesm2015/angular2-csv.js",
+  "esm2015": "esm2015/angular2-csv.js",
+  "esm5": "esm5/angular2-csv.js",
+  "fesm2015": "fesm2015/angular2-csv.js",
+  "fesm5": "fesm5/angular2-csv.js",
+  "homepage": "https://github.com/shilpa04/customized-angular2-csv#readme",
+  "keywords": [
+    "angular2",
+    "angular4",
+    "angular5",
+    "angular6",
+    "angular-2",
+    "angular-4",
+    "angular-5",
+    "angular-6",
+    "export-to-csv",
+    "export-to-excel",
+    "csv",
+    "excel",
+    "libreoffice",
+    "openoffice"
+  ],
+  "license": "MIT",
+  "main": "bundles/angular2-csv.umd.js",
+  "metadata": "angular2-csv.metadata.json",
+  "module": "fesm5/angular2-csv.js",
+  "name": "customized-angular2-csv",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0-rc.0 || ^7.0.0",
+    "@angular/core": "^7.0.0-rc.0 || ^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shilpa04/customized-angular2-csv.git"
+  },
+  "sideEffects": false,
+  "typings": "angular2-csv.d.ts",
+  "version": "1.0.1"
+}
